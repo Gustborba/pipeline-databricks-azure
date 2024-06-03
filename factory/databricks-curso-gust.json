@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-gust",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e08a8c17-0ab3-400c-8a2c-17edbb3333db",
+		"tenantId": "3ead132d-2782-4361-9e28-322c8df58400"
+	}
+}
